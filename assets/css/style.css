@@ -103,7 +103,7 @@ a.filled-button:hover {
 }
 
 .page-heading .text-content h4 {
-	color: #94cae3;
+	color: #1a6692;
 	font-size: 22px;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -341,7 +341,7 @@ header .navbar {
 }
 
 .banner .text-content h2 {
-	color: #000;
+	color: #fff;
 	font-size: 50px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
