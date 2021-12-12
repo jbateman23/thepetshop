@@ -82,16 +82,16 @@ a.filled-button:hover {
 	margin-bottom: 15px;
 }
 
-.products-heading {
-	background-image: url(../images/products-heading.jpg);
+.pets-heading {
+	background-image: url(../images/main.jpg);
 }
 
 .about-heading {
-	background-image: url(../images/about-heading.jpg);
+	background-image: url(../images/main.jpg);
 }
 
 .contact-heading {
-	background-image: url(../images/contact-heading.jpg);
+	background-image: url(../images/main.jpg);
 }
 
 .page-heading {
