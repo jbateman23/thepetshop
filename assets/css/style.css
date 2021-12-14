@@ -86,7 +86,7 @@ a.filled-button:hover {
 	background-image: url(../images/main.jpg);
 }
 
-.about-heading {
+.aboutus-heading {
 	background-image: url(../images/main.jpg);
 }
 
@@ -418,16 +418,16 @@ header .navbar {
 
 /* Best Features */
 
-.about-features {
+.aboutus-features {
 	margin-top: 100px!important;
 }
 
-.about-features p {
+.aboutus-features p {
 	border-bottom: 1px solid #eee;
 	padding-bottom: 20px;
 }
 
-.about-features .container .row {
+.aboutus-features .container .row {
 	padding-bottom: 0px!important;
 	border-bottom: none!important;
 }
@@ -554,12 +554,12 @@ footer .inner-content p a {
 /* Team Members */
 
 .team-members {
-	margin-top: 100px;
+	margin-top: 80px;
 }
 
 .team-member {
 	border: 1px solid #eee;
-	margin-bottom: 30px;
+	margin-bottom: 50px;
 }
 
 .team-member img {
@@ -568,7 +568,7 @@ footer .inner-content p a {
 }
 
 .team-member .down-content {
-	padding: 30px;
+	padding: 50px;
 	text-align: center;
 }
 
@@ -578,7 +578,7 @@ footer .inner-content p a {
 
 .team-member .thumb-container .hover-effect {
 	position: absolute;
-	background-color: rgba(243,63,63,0.9);
+	background-color: #d6eaf1;
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -673,31 +673,6 @@ footer .inner-content p a {
 	margin-bottom: 25px;
 }
 
-
-
-
-/* Clients */
-
-.happy-clients {
-	margin-top: 100px;
-	margin-bottom: 40px;
-}
-
-.happy-clients .client-item img {
-	max-width: 100%;
-	overflow: hidden;
-	transition: all .3s;
-	cursor: pointer;
-}
-
-.happy-clients .client-item img:hover {
-	opacity: 0.8;
-}
-
-
-
-
-/* Find Us */
 
 .find-us {
 	margin-top: 100px;
@@ -872,7 +847,7 @@ footer .inner-content p a {
 		width: 100%;
 		margin-top: 20px;
 	}
-	.about-features img {
+	.aboutus-features img {
 		margin-bottom: 30px;
 	}
 	.service-item {
